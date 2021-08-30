@@ -1,4 +1,4 @@
-![Zenitsu Slogan](tj-austria-zenitsu-1k.gif)
+![Zenitsu Slogan](ZenitsuThunder.gif)
 # Sobre Mim
 
 - 👋 Ola, Meu nome é Matheus
