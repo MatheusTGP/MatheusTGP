@@ -9,7 +9,7 @@ algumas informações minhas!
 
 - 🐍 Programador **Python**
 
-- 📫 Projeto Atual: **[MLaucher in Python](github.com/MatheusTgamerPro/MLaucher)**
+- 📫 Projeto Atual: **MLaucher**
 
 # Meus Projetos
 - Aqui na GitHub posso colocar em prática meus projetos iniciais
