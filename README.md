@@ -25,6 +25,9 @@ Desenvolvedores. Normalmente trabalho com a Línguagem **Python**
 # 🛡️ | Linguagens
 - [x] <img align="center" alt="MatheusTGP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> **Python**
 - [x] <img align="center" alt="MatheusTGP" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"> **C++**
+- [x] <img align="center" alt="MatheusTGP" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg"> **Jupyter Notebook**
+- [x] <img align="center" alt="MatheusTGP" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg"> **Ubuntu Development**
+- [x] <img align="center" alt="MatheusTGP" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg"> **Bash / Shell**
 
 # 🌐 | Rede Sociais / Contato
 **Veja Vídeos no meu Site do YouTube, Entre em Contato pelo Email**
