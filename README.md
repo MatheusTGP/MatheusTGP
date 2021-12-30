@@ -3,13 +3,13 @@
 - 👋 Ola, Meu nome é Matheus, sou programador da linguagem Python! Abaixo voce vera
 algumas informações minhas!
 
-- 👀 Criador de scripts e Códigos
+- 👀 Criador de scripts, e Programas para Windows e Linux
 
-- 📖 Estudando atualmente: C++, Java
+- 📖 Estudando atualmente: Ubuntu-Mod, Bash
 
-- 🐍 Programador **Python**
+- 🐍 Programador **Python**,**Bash/Shell**,**Ubuntu**
 
-- 📫 Projeto Atual: **MLaucher**
+- 📫 Projeto Atual: **MLaucher, XFCE Machine**
 
 # ⚒️ | Meus Projetos
 - Aqui na GitHub posso colocar em prática meus projetos iniciais
