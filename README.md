@@ -2,9 +2,9 @@
   
 - 👋 **Ola, Meu nome é Matheus, sou programador da linguagem Python, sou criador de scripts,programas para Windows, Android, e Linux.**
 
-- 📚 Estudando atualmente: **C++, HTML5, Java**
+- 📚 Estudando atualmente: **C, HTML5, Java**
 
-- ☕ Programador: **Python, Bash, C++, Java,**
+- ☕ Programador: **Python, Bash, C, Java,**
 
 - 🍷 Projeto Atual: **HTML-Reader + HTML-Collector**
 
