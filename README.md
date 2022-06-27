@@ -2,11 +2,11 @@
 
 - 👋 **Ola, Meu nome é Matheus, sou programador da linguagem Python, sou criador de scripts,programas para Windows, Android, e Linux.**
 
-- 📚 Estudando atualmente: **C, HTML5, Java**
+- 📚 Estudando atualmente: **Java Android**
 
-- ☕ Programador: **Python, Bash, C, Java,**
+- ☕ Programador: **Python, Bash, Java**
 
-- 🍷 Projeto Atual: **HTML-Reader + HTML-Collector**
+- 🍷 Projeto Atual: **TGP-MusicPlayer / XFCWIN Installer APK**
 
 # 👁️‍🗨️ | Resumo Básico
 - Bem, eu sou mais um programador comum, más com tantas ideias.. que fica até difícil
