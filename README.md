@@ -1,6 +1,8 @@
 <h1 align="center">🚀 Sobre mim</h1>
 
-<img src="https://sauter.digital/wp-content/uploads/2021/05/GIF-Dados.gif"></img>
+<p align="center">
+    <img src="https://sauter.digital/wp-content/uploads/2021/05/GIF-Dados.gif"></img>
+</p>
 
 Olá, meu nome é Matheus, e venho aqui na GitHub para colocar algums dos meus projetos em prática, sou programador **Java**, **Python**, e **Shell Script**.
 Com mais fluência em Python, também construo aplicativos para Android, Windows, e Linux. Aqui na GitHub você encontra algums dos meus projetos em repositórios você também pode acessar a minha organização **TGP-Projects** aqui GitHub,
