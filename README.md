@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I am MatheusTGP</h1>
-<h3 align="center">An Android Application Developer</h3>
+<h1 align="center">Hi 👋, I am MatheusTGP ツ</h1>
 
 <p align="center">
-    <img width="600" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheustgamerpro&hide_border=true&theme=transparent"/>
+    <img width="540" align="center" src="https://streak-stats.demolab.com?user=matheustgp&theme=vue-dark&hide_border=true&locale=pt_BR&background=45%2C0A1218%2C2C8390"/>
 </p>
 
-- 🌱 I’m currently learning **Kotlin, UI/UX Design**
+<p align="center">
+    Hello, I'm MatheusTGP, a software developer with a passion for creating applications, specifically for Android. Currently, my main focus is on acquiring knowledge in various ways to enhance my coding skills and make the most of the latest technologies as a whole.
+    Below, you can find some of the programming languages I'm adapting to and others that I'm further refining my foundational knowledge in.
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,bash,c#" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Kotlin, C#, UI/UX Design**
+- 📒 Atualmente com aprendizado solido em **Java**
 - 📫 Send me an email **matheustgpcontato@gmail.com**
+- 💡 Feel free to follow me and get in touch to discuss collaborations or interesting projects!
 
-<h5 align="center">Feel free to follow me and get in touch to discuss collaborations or interesting projects!
-</h4>
