@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am MatheusTGP ツ</h1>
 
 <p align="center">
-    <img width="540" align="center" src="https://streak-stats.demolab.com?user=matheustgp&theme=vue-dark&hide_border=true&locale=pt_BR&background=45%2C0A1218%2C2C8390"/>
+    <img width="540" align="center" src="https://streak-stats.demolab.com?user=matheustgp&theme=vue-dark&hide_border=false&locale=pt_BR&background=45%2C0A1218%2C2C8390"/>
 </p>
 
 <p align="center">
