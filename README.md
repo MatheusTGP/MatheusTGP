@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am MatheusTGP ツ</h1>
+<h1 align="center">Hi 👋, I am Matheus ツ</h1>
 
 <p align="center">
     <img width="540" align="center" src="https://streak-stats.demolab.com?user=matheustgp&theme=vue-dark&hide_border=false&locale=pt_BR&background=45%2C0A1218%2C2C8390"/>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,kotlin,bash,c#" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,python,kotlin,bash,c#" />
   </a>
 </p>
 
