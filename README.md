@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Kotlin, C#, UI/UX Design**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, UI/UX Design**
 - 📒 Atualmente com aprendizado solido em **Java**
 - 📫 Send me an email **matheustgpcontato@gmail.com**
 - 💡 Feel free to follow me and get in touch to discuss collaborations or interesting projects!
