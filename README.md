@@ -7,15 +7,15 @@
     Below, you can find some of the programming languages I'm adapting to and others that I'm further refining my foundational knowledge in.
 </p>
 
-<h3>Programming Languages</h3>
-<p>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,kotlin,bash,c#" />
   </a>
 </p>
 
-<h3>Technologies and Systems</h3>
-<p>
+<h3 align="center">Technologies and Systems</h3>
+<p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,androidstudio,figma" />
   </a>
