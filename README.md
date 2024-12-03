@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Matheus ツ</h1>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=MatheusTGP&theme=windows-dark&hide_border=verdadeiro&border_radius=0" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=MatheusTGP&theme=ocean-gradient&hide_border=verdadeiro&border_radius=0&fundo=61EB9C00" alt="GitHub Streak" /></p>
 
 <p align="center">
     Hello, I'm MatheusTGP, a software developer with a passion for creating applications, specifically for Android. Currently, my main focus is on acquiring knowledge in various ways to enhance my coding skills and make the most of the latest technologies as a whole.
