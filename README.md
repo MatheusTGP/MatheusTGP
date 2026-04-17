@@ -1,28 +1,46 @@
-<h1 align="center">Hi 👋, I am Matheus ツ</h1>
+## 🚀 Hello, I am Matheus!
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=MatheusTGP&theme=ocean-gradient&hide_border=verdadeiro&border_radius=12&fundo=61EB9C00&card_width=800"& alt="GitHub Streak" /></p>
+> "Code is like art — the cleaner, the better."
 
-<p align="center">
-    Hello, I'm MatheusTGP, a software developer with a passion for creating applications, specifically for Android. Currently, my main focus is on acquiring knowledge in various ways to enhance my coding skills and make the most of the latest technologies as a whole.
-    Below, you can find some of the programming languages I'm adapting to and others that I'm further refining my foundational knowledge in.
+> Joshua 1:9 - "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+
+💡 I'm Matheus, an Android developer passionate about building modern and efficient applications.  
+📱 My main focus is creating apps using **Kotlin** and **Jetpack Compose**.  
+📚 Always learning and improving to stay up-to-date with the latest technologies.
+
+<p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white"/>
 </p>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,kotlin,bash,c#" />
-  </a>
-</p>
+## 🧠 Skills
 
-<h3 align="center">Technologies and Systems</h3>
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,androidstudio,figma" />
-  </a>
-</p>
+- 📱 Android (Kotlin, Jetpack Compose)
+- 🌐 REST APIs & Networking
+- ⚙️ C# / .NET (Async, HttpClient, Records)
+- 🔎 Web Scraping & Reverse Engineering
+- 🧩 Problem Solving & Clean Code
+- 💻 Linux, Windows & Dev Tools
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose, RestAPI**
-- 📒 Currently with solid learning in **Kotlin & Java**
-- 💡 Feel free to follow me and get in touch to discuss collaborations or interesting projects!
-- 📫 Send me an email in **matheustgpcontato@gmail.com**
+## 🧠 Currently Learning
 
+- 🔥 Advanced **Kotlin** & **C#/.NET** — focusing on performance, clean architecture and scalability
+- 🎨 Modern UI development with **Jetpack Compose**
+- 🌐 **API Design**, **Backend Integration** & **Reverse Engineering**
+- 🐳 **Docker** — containerization and development environments
+
+## 📫 Contact
+
+📧 **Email:** matheustgpcontato@gmail.com  
+💬 Feel free to reach out for collaborations, ideas or just to talk about tech!
